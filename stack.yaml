@@ -1,0 +1,14 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- MorseCode-0.0.5
+- csound-expression-5.2.0
+- csound-expression-dynamic-0.3.0
+- csound-expression-opcodes-0.0.3.2
+- csound-expression-typed-0.2.0.0
+- data-fix-0.0.4
+- data-fix-cse-0.0.2
+- temporal-media-0.6.1
+resolver: lts-8.9
