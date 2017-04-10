@@ -17,4 +17,4 @@ executable morse
   hs-source-dirs:      src
   main-is:             Main.hs
   default-language:    Haskell2010
-  build-depends:       base, csound-expression, MorseCode
+  build-depends:       base, csound-expression, haskell-gi, gi-gtk, MorseCode
